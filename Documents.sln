@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documents", "Documents\Documents.csproj", "{3328D64C-1AD9-44F1-9C65-C790D3AAC527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsTest", "DocumentsTest\DocumentsTest.csproj", "{583456DE-2157-4499-AA0A-ADAC70160DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumBitDesigns.Core", "QuantumBitDesigns.Core\QuantumBitDesigns.Core.csproj", "{CEB9B41C-F4FF-48D1-888E-846DB476E98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3328D64C-1AD9-44F1-9C65-C790D3AAC527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3328D64C-1AD9-44F1-9C65-C790D3AAC527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3328D64C-1AD9-44F1-9C65-C790D3AAC527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3328D64C-1AD9-44F1-9C65-C790D3AAC527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583456DE-2157-4499-AA0A-ADAC70160DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583456DE-2157-4499-AA0A-ADAC70160DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583456DE-2157-4499-AA0A-ADAC70160DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583456DE-2157-4499-AA0A-ADAC70160DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB9B41C-F4FF-48D1-888E-846DB476E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB9B41C-F4FF-48D1-888E-846DB476E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB9B41C-F4FF-48D1-888E-846DB476E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB9B41C-F4FF-48D1-888E-846DB476E98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
